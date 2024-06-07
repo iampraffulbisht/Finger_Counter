@@ -83,5 +83,6 @@ while True:
 
     cv.putText(img,f'FPS:{int(fps)}',(1100,70),cv.FONT_HERSHEY_PLAIN,3,(255,0,255),3)
     cv.imshow("Webcam",img) 
-    cv.waitKey(15)
+    if cv.waitKey(15) & 0xFF == ord('q'):
+        break
 

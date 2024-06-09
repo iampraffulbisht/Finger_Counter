@@ -24,7 +24,7 @@ Mediapipe
 Installation
 
 Clone the repository:
-  git clone https://github.com/your_username/finger-counting.git
+  git clone https://github.com/iamprafflbisht/Finger_Counter.git
 
 Navigate to the project directory:
   cd finger-counting

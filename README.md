@@ -1,5 +1,11 @@
 Finger Counting with Hand Tracking
 
+
+
+https://github.com/iampraffulbisht/Finger_Counter/assets/114369813/d43c6729-4da5-4b6d-be12-12e266549460
+
+
+
 This project allows you to count fingers using hand tracking with OpenCV and Mediapipe. It displays corresponding images based on the number of fingers raised and also shows custom text when only the middle finger is raised.
 
 Table of Contents
